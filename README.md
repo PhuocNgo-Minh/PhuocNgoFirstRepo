@@ -1,3 +1,9 @@
-# Clone Verification
+## Features
 
-Repository successfully clone into VS code
+- Prints a welcome message
+- Greets the user with their name
+
+## About
+
+This project demonstrates GitHub and VS Code
+integration with Java code.
